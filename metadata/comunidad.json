@@ -1,0 +1,26 @@
+{
+  "name": "NFT de COMUNIDAD SATOKA",
+  "description": "Certificado de contribución tipo: COMUNIDAD, al proyecto SATOKA - Consciencia Artificial",
+  "image": "https://peach-dear-pig-947.mypinata.cloud/ipfs/bafybeihz7dfk7i4n3aglxah2bqxkkma5tgiev3k36jde3ynb4qmqoapugy",
+  "external_url": "https://sites.google.com/view/proyecto-satoka/satoka",
+  "attributes": [
+    {
+      "trait_type": "Tipo",
+      "value": "Comunidad"
+    },
+    {
+      "trait_type": "Valor",
+      "value": 2735,
+      "display_type": "number",
+      "unit": "POL"
+    },
+    {
+      "trait_type": "Beneficios",
+      "value": "Acceso a contenidos, Creación contenido, Reconocimientos"
+    }
+  ],
+  "legal": {
+    "terms": "https://sites.google.com/view/proyecto-satoka/satoka/tiposnfts",
+    "issuer": "SATOKA DAO"
+  }
+}
