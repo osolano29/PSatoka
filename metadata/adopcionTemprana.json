@@ -1,0 +1,26 @@
+{
+  "name": "NFT Adopción Temprana SATOKA #ID",
+  "description": "Certificado oficial de contribución como Early Adopter al ecosistema SATOKA - Plataforma de Consciencia Artificial. Este NFT otorga distinción fundacional con el proyecto y otorga beneficios exclusivos.",
+  "image": "https://peach-dear-pig-947.mypinata.cloud/ipfs/bafybeihgl4za3oif3rpvsohrfmqrmcoy4wvoebludxuncio4apeo2eweum",
+  "external_url": "https://sites.google.com/view/proyecto-satoka/satoka",
+  "attributes": [
+    {
+      "trait_type": "Tipo",
+      "value": "Early Adopter"
+    },
+    {
+      "trait_type": "Valor",
+      "value": 38295,
+      "display_type": "number",
+      "unit": "POL"
+    },
+    {
+      "trait_type": "Beneficios",
+      "value": "Acceso Beta, Parte comunidad activa, Recompensas"
+    }
+  ],
+  "legal": {
+    "terms": "https://sites.google.com/view/proyecto-satoka/satoka/tiposnfts",
+    "issuer": "SATOKA DAO"
+  }
+}
