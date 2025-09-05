@@ -1,0 +1,26 @@
+{
+  "name": "NFT PIONERO SATOKA",
+  "description": "Certificado de contribución fundacional al proyecto SATOKA - Consciencia Artificial. Este NFT otorga distinción de maximos contribuyentes.",
+  "image": "https://peach-dear-pig-947.mypinata.cloud/ipfs/bafybeia4huikm6mjxkhmb42dh5ftl2zqntptyexpcmfubgjyycwalnvi3u",
+  "external_url": "https://sites.google.com/view/proyecto-satoka/satoka",
+  "attributes": [
+    {
+      "trait_type": "Tipo",
+      "value": "Pionero"
+    },
+    {
+      "trait_type": "Valor",
+      "value": 60178,
+      "display_type": "number",
+      "unit": "POL"
+    },
+    {
+      "trait_type": "Beneficios",
+      "value": "Gobernanza, Acceso Premium, Recompensas, Reconocimiento"
+    }
+  ],
+  "legal": {
+    "terms": "https://sites.google.com/view/proyecto-satoka/satoka/tiposnfts",
+    "issuer": "SATOKA DAO"
+  }
+}
