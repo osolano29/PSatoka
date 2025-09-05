@@ -1,0 +1,26 @@
+{
+  "name": "NFT de RENOMBRE SATOKA",
+  "description": "Certificado de contribución tipo: RENOMBRE, al proyecto SATOKA - Consciencia Artificial",
+  "image": "https://peach-dear-pig-947.mypinata.cloud/ipfs/bafybeiftoeln3dwlgpbx36e7wq2hbgbkdgsygbrhj3infl57jx3ttj7qvy",
+  "external_url": "https://sites.google.com/view/proyecto-satoka/satoka",
+  "attributes": [
+    {
+      "trait_type": "Tipo",
+      "value": "Renombre"
+    },
+    {
+      "trait_type": "Valor",
+      "value": 1641,
+      "display_type": "number",
+      "unit": "POL"
+    },
+    {
+      "trait_type": "Beneficios",
+      "value": "Embajador social, Legado, Reconocimientos, Canalizador, Influenciador"
+    }
+  ],
+  "legal": {
+    "terms": "https://sites.google.com/view/proyecto-satoka/satoka/tiposnfts",
+    "issuer": "SATOKA DAO"
+  }
+}
